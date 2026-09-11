@@ -72,10 +72,13 @@ Screens 2 and 3 also include a Home link, so the user can return to the landing 
 
 The AI-generated version gave me a starting point for the three screens, but I made revisions after looking at whether the interface clearly communicated the primary capability.
 
-**Before:** [Link to initial AI-generated commit]
+**Before:** 
+![Initial Screen 1](screenshots%20of%20screens/screen1.png) ![Initial Screen 1](screenshots%20of%20screens/screen2.png) ![Initial Screen 1](screenshots%20of%20screens/screen3.png)
 
-**After:** [Link to revised prototype or add screenshot]
+**After:** 
+See site by visiting this link:
+https://ux-screen-assignment-99cg-nuylsuji6-grace-880b.vercel.app/
 
-One specific issue with the initial design was **[PUT YOUR ACTUAL CHANGE HERE]**. This affected **[visual hierarchy / signaling / proximity / common region / consistency]** because **[briefly explain the problem]**.
+One specific issue with the initial design was that there wasn't consistent navigation nor was there any information other than a minute incrementor and an "import schedule" button. This affected consistency with the navigation along with signaling because it didn't clearly show the user the reason it needed your time and schedule.
 
-I changed **[what you actually changed]** so that **[what improved]**. This change was motivated by my design question: **“[design question this change helped answer]”**
+I changed the first screen to say "How much time do you have? We'll find the best use for your time." so that users could clearly understand the usage of the app is to find ways for them to fill their time. This change was motivated by my design question: “I'm going to show you this first screen for five seconds. After I hide it, tell me what you think this app does.”
